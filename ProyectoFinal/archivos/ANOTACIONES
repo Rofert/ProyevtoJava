@@ -1,0 +1,19 @@
+HAY QUE HACER UN PROGRAMA EN EL QUE HAY PARTICIPANTES QUE TIENE QUE PRONOSTICAR LOS RESULTADOS DE LOS PARTIDOS Y SI ACIERTAN, SE LES SUMA PUNTOS
+
+**INGRESAR DATOS MEDIANTE ARCHIVOS TXT**
+
+EL PROGRAMA TIENE QUE ORDENAR A LOS PARTICIPANTES DEPENDIENDO DE LOS PUNTAJES
+
+**RECORDA USAR PRIVATE PAQUETE PUBLIC Y EL OTRO**
+
+podes usar el numero de partido o ronda poniendolo con el dato de la ronda ingresado en el archivo txt
+
+**PROBA PONIENDO split.asdas(\n) a ver si separa por renglones y despues por espacios
+
+Intenta de crear un varios objetos con un for dentro de otro for(el del texto)
+
+Hacer arrayList de personas que apuestan
+
+crear clase que de resultado del partido
+
+La clase Pronostico tiene equipo1, equipo2, int ganaEquipo1, int empate y int ganaEquipo2
