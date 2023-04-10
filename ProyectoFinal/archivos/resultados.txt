@@ -2,5 +2,3 @@ Argentina 1 2 Arabia
 Polonia 0 0 Mexico
 Argentina 2 0 Mexico
 Arabia 0 2 Polonia
-listaPartidos.get(i).equipo1.nombre +" "+ listaPartidos.get(i).golesEquipo1+
-						" "+ listaPartidos.get(i).golesEquipo2 +" "+ listaPartidos.get(i).equipo2.nombre

@@ -1,5 +1,4 @@
-Mariana
-Argentina 1 0 0 Arabia
-Polonia 0 1 0 Mexico
-Argentina 1 0 0 Mexico
-Arabia 0 0 1 Polonia
+Argentina 100 Arabia
+Polonia 010 Mexico
+Argentina 100 Mexico
+Arabia 001 Polonia
